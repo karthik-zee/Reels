@@ -8,6 +8,10 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    private var collectionView = UICollectionView{
+        
+    }()
 
     override func viewDidLoad() {
         super.viewDidLoad()
